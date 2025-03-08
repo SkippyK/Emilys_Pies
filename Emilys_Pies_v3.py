@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-#Emily_dashboard_project for deployment on pythonanywhere.com version 3
-#Lovingly created by Skippy Keiter 01/27/25 
+#Emily_dashboard_project for deployment on render.com version 3
+#Lovingly created by Skippy Keiter 03/8/25 
 
 #Imports
 from dash import Dash, dcc, html, no_update, dash_table, State, callback_context
