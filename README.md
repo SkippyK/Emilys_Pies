@@ -13,5 +13,11 @@ I am continuing to refine this project and make it more robust to handle more di
 
 I take seriously the security of any information that might be considered private and have taken steps, to the best of my ability, to minimize access to the data uploaded to this program.
 
+Update Version 3--March 10, 2025
+Version three handles multiple sheets within a single excel document, this way multiple testing sessions can be viewed. The new version by default chooses the last sheet for display and provides a dropdown menu of all available sheets. Once the spreadsheet is uploaded, pie charts tab will appear and you can navigate to that tab to choose a student. Once the figure is created for that student, the user can navigate back to the upload data page and change the sheet, this will update the figure for the given student to the data presented in the older sheet. If the student is not present in the chosen sheet an error message will appear explaining the discrepancy. 
+In this update I have also provided an example of the formatted data on the upload page for reference in case errors arise due to improper format of the data.
+I also removed the hard coding of the max test scores and infer the max scores from the data itself. If max scores are provided this value can be inferred directly.
+
+
 
 
