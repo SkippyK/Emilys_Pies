@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+ver#!/usr/bin/env python
 # coding: utf-8
 
 #Emily_dashboard_project for deployment on render.com version 3
@@ -679,7 +679,7 @@ def PieFig(full_name, tab, n_clicks, stored_sheets, selected_sheet, sheet_option
                 return update_callback(changes)
     else:
         raise PreventUpdate
-
+server = app.server
 # app.run_server(debug = True, port = 8044)
 
 
