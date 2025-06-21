@@ -8,10 +8,11 @@ The program only works if the spreadsheet (.xls) has a specific order of column 
 random column headers...First Name,  Last Name,  Score, Category,  Date,  Test1,  Date,  Test2,  Date,  Test3...
 
 The order of the column headers and the Date columns is what the program uses to identify the relevant info, this eliminates the need to know what the actual column headers say, due to some inconsistency in the column headers between spreadsheets.
+I have included a sample data csv file to be able to use the app as intended. 
 
 I am continuing to refine this project and make it more robust to handle more diverse formats, however version 2 is currently the version that is being webhosted.
 
-I take seriously the security of any information that might be considered private and have taken steps, to the best of my ability, to minimize access to the data uploaded to this program.
+I take seriously the security of any information that might be considered private and have taken steps, to the best of my ability, to minimize access to the data uploaded to this program. The uploaded data is not retained beyond the scope of the program and is no longer accessible once the web page is closed.
 
 
 
